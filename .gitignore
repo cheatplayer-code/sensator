@@ -1,0 +1,36 @@
+# Gradle / build outputs
+.gradle/
+**/.gradle/
+build/
+**/build/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Kotlin / local caches
+.kotlin/
+
+# Android / local config
+local.properties
+
+# Generated / packaged outputs
+*.apk
+*.aab
+*.dex
+*.class
+*.jar
+*.keystore
+*.jks
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
